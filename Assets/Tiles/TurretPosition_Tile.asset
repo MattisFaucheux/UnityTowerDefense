@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: TurretPosition_Tile
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: -2413806693520163455, guid: 7ad6d343dbbf89f4a901c32770224a89, type: 3}
+  m_DefaultGameObject: {fileID: 9127858415997833266, guid: b65cc1eb690b44640a18cdcc82130e07, type: 3}
+  m_DefaultColliderType: 0
+  m_TilingRules: []
